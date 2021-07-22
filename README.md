@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ellen!</h1>
-<h3 align="center">I'm a person passionate about learning, traveling, and climbing.💡✈️🧗‍♀️</h3>
+<h3 align="center">I'm a passionate person. My interests are learning, traveling, and climbing.💡✈️🧗‍♀️</h3>
 
 - 👩‍💻 Pronouns: She/Her
 
