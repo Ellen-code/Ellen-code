@@ -20,6 +20,16 @@
 <a href="https://www.linkedin.com/in/ellen-p-pimentel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/in/ellen-p-pimentel" height="30" width="40" /></a>
 <a href="https://ellenprado-pimentel.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ellenpradopimentel" height="30" width="40" /></a>
 </p>
+  
+### Work Experience
+In the overview below you will find my most recent work experience:
+  
+**Front-end Developer (Jr)** \
+[**Carambola**](https://www.carambola.com.vc/) • Full-time \
+Languages & Technologies: `JavaScript`, `HTML`, `CSS`, `Angular`, `Typescript`\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Carambola" src="https://i.imgur.com/RqbpV9N.jpg"/>](https://www.carambola.com.vc/)
 
 <h3 align="left">Languages and Tools:</h3>
 
